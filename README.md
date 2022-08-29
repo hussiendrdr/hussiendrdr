@@ -20,10 +20,10 @@ I'm a Software Engineer / Developer 👨🏻‍💻 who loves building and devel
 ### 📫⚡ Social ⚡:
 
 <p align="left">
-<a href="https://twitter.com/drebatealaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drebatealaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alaa drebate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa drebate" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alaa_dr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alaa_dr" height="30" width="40" /></a>
-<a href="https://fb.com/alaa drebate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa drebate" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/hussien-dribati-23617824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa drebate" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14828371/hussien-dri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alaa_dr" height="30" width="40" /></a>
+<a href="https://www.facebook.com/groups/357654340969146/user/100004190225509/?landing_associated_id=2380196528794044&landing_type=user_signals_awards&notif_id=1661304470187422&notif_t=user_signal_award&ref=notif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa drebate" height="30" width="40" /></a>
 </p>
 <br />
 
