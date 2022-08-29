@@ -4,7 +4,7 @@ I'm a Software Engineer / Developer 👨🏻‍💻 who loves building and devel
 
 - 👯 I’m looking to collaborate on **any amazing project**
 
-- 📫 How to reach me **alaaa.drebate@gmail.com**
+- 📫 How to reach me **hussiendribati@gmail.com**
 &nbsp; <br><p align="center">  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris) </p>
 
 <h3 align="left">visitor counter:</h3>
@@ -12,7 +12,7 @@ I'm a Software Engineer / Developer 👨🏻‍💻 who loves building and devel
 <!-- retro visitor counter -->
 <p align="center"> 
   <br />
-  <img src="https://profile-counter.glitch.me/Alaa-Drebate/count.svg" />
+  <img src="https://profile-counter.glitch.me/hussiendrdr/count.svg" />
 </p>
 
 <br />
@@ -36,6 +36,6 @@ I'm a Software Engineer / Developer 👨🏻‍💻 who loves building and devel
 ### <b>⚡📈 My GitHub Statistics 📈⚡</b>
 <br />
 <p align="left">
-<img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=alaa-drebate&show_icons=true&locale=en" alt="alaa-drebate" />
-<img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alaa-drebate&" alt="alaa-drebate" />
+<img width="400" align="left" height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=hussiendrdr&show_icons=true&locale=en" alt="hussiendrdr" />
+<img width="400" align="left" height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hussiendrdr&" alt="hussiendrdr" />
 </p>
